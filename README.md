@@ -26,3 +26,4 @@ The project consists of three main components:
 
 ## Demo
 
+<img width="827" alt="Cars" src="https://github.com/Chakilamsrikanth/Cars-View-Slider/assets/147283839/e0b362f6-6f9b-4d23-8453-be5d1adaba60">
