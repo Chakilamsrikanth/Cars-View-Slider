@@ -2,12 +2,6 @@
 
 This project is a simple web application that displays luxury cars and allows users to view them in a slider format. Additionally, when a user clicks on a car name, it triggers an animation of planets in the background.
 
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-
 ## Features
 
 - Display luxury cars in a slider format.
@@ -22,7 +16,7 @@ The project consists of three main components:
 
 2. **CSS:** Styles the HTML elements, providing visual enhancements such as colors, fonts, and positioning. It also includes animations for the slider and planetary effects.
 
-3. **JavaScript:** Adds interactivity to the web page. It handles the sliding functionality of the cars and triggers the planetary animation when a car name is clicked.
+3. **JavaScript:** Adds interactivity to the web page. It handles the sliding functionality of the cars and triggers the sliding animation when a car name is clicked.
 
 ## Demo
 
