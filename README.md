@@ -1,4 +1,4 @@
-# Car Slider with Planetary Animation
+# Car Slider
 
 This project is a simple web application that displays luxury cars and allows users to view them in a slider format. Additionally, when a user clicks on a car name, it triggers an animation of planets in the background.
 
